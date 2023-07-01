@@ -31,6 +31,7 @@ bool checkCompGraph(vector<vector<int>> matrix){
 
 int main(){
     int n;
+    cout << "Check if a given graph is a complete graph using the Adjacency Matrix representation\n\n";
     cout << "Enter the number of vertices: ";
     cin >> n;
     cout << "\n\n";
