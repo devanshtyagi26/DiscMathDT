@@ -115,7 +115,7 @@ public:
 
 
 int main(){
-    set <int> elements = {1,2,3,4,56,45,5,95,6,7,8};
+    set <int> elements = {1,2,3,4,8};
     SET test;
     cout<<"Check whether an element belongs to the set or not and return value as true/false\n\n";
     test.isMember(elements);
