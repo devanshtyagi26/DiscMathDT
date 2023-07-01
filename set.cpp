@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
 class SET {
 public:
     void isMember(set <int> elements) {
@@ -109,6 +110,7 @@ public:
         cout<<"}";
     }
 };
+
 
 
 
